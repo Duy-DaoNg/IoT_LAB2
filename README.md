@@ -9,7 +9,7 @@
 ### Step 2: Navigate to the project directory
 
 ```bash
-  cd IoT_LAB1
+  cd IoT_LAB2
 ```
 
 ### Step 3: Install Packages
