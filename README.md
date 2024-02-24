@@ -3,7 +3,7 @@
 ### Step 1: Clone the project
 
 ```bash
-  git clone https://github.com/Duy-DaoNg/IoT_LAB1.git
+  https://github.com/Duy-DaoNg/IoT_LAB2.git
 ```
 
 ### Step 2: Navigate to the project directory
